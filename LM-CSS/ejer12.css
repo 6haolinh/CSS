@@ -1,0 +1,13 @@
+.class1 {
+  background-image: url("bender.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.class2 {
+  background-image: url("bender.jpg");
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
+#p1 {
+  border-style: dotted;
+}

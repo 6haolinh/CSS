@@ -1,0 +1,12 @@
+div {
+  display: inline;
+  float: left;
+  margin: 1em;
+  padding: 0.3em;
+  width: 100px;
+  height: 400px;
+  font: 1em Arial, helvetica, sans-serif;
+}
+h1 {
+  background-color: 2px #555;
+}

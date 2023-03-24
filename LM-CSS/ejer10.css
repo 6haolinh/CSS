@@ -1,0 +1,9 @@
+body {
+  background-image: url("bender.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+}
+#p1 {
+  color: red;
+}

@@ -1,0 +1,18 @@
+div {
+  width: 900px;
+  height: 80px;
+  background-color: aqua;
+  border: 3px solid black;
+  background-image: radial-gradient(red, rgb(148, 148, 100), rgb(41, 99, 174));
+}
+
+.c2 {
+  position: relative;
+  bottom: 50px;
+  left: 100px;
+  background-image: radial-gradient(red, yellow, green);
+}
+
+.c3 {
+  background-image: radial-gradient(blue, yellow, #555);
+}

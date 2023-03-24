@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Red Social de Músicos - Inicio</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Red Social de Músicos</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Notificaciones</a></li>
+          <li><a href="#">Mensajes</a></li>
+          <li><a href="#">Perfil</a></li>
+          <li><a href="#">Cerrar sesión</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="tweet-box">
+        <form>
+          <textarea placeholder="¿Qué estás pensando?" rows="4"></textarea>
+          <div id="tweet-box-actions">
+            <button type="submit">Publicar</button>
+            <span id="remaining-chars">280 caracteres restantes</span>
+          </div>
+        </form>
+      </section>
+      <section id="timeline">
+        <article>
+          <div class="avatar"></div>
+          <div class="tweet-content">
+            <div class="tweet-header">
+              <h2>Nombre de Usuario</h2>
+              <small>@nombredeusuario - 16 de marzo de 2023</small>
+            </div>
+            <p>Contenido del tweet...</p>
+          </div>
+        </article>
+        <article>
+          <div class="avatar"></div>
+          <div class="tweet-content">
+            <div class="tweet-header">
+              <h2>Otro Nombre de Usuario</h2>
+              <small>@otro-nombre-de-usuario - 15 de marzo de 2023</small>
+            </div>
+            <p>Otro contenido del tweet...</p>
+          </div>
+        </article>
+      </section>
+    </main>
+    <footer>
+      <p>Derechos de autor © 2023 Red Social de Músicos</p>
+    </footer>
+  </body>
+</html>

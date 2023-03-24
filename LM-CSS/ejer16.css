@@ -1,0 +1,16 @@
+#p1 {
+  background-color: antiquewhite;
+  font-style: italic;
+}
+#p2 {
+  background-color: aquamarine;
+  font-variant: small-caps;
+}
+#p3 {
+  background-color: rgb(181, 65, 158);
+  word-spacing: 20px;
+}
+#p4 {
+  background-color: blueviolet;
+  font-style: initial;
+}

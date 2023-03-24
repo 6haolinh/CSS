@@ -1,0 +1,10 @@
+div {
+  display: inline;
+  background: blue;
+  color: white;
+  margin: 1px;
+}
+img {
+  float: left;
+  width: 300px;
+}
